@@ -4,5 +4,5 @@ docker-workflow:1.10
 mesos:0.14.1
 marathon:1.4.0
 git:3.1.0
-folders:6.0.3
+cloudbees-folder:6.0.3
 mailer:1.20
