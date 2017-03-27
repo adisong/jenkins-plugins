@@ -1,3 +1,4 @@
+locale:1.2
 ldap:1.14
 workflow-aggregator:2.5
 docker-workflow:1.10
