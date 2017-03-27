@@ -1,0 +1,8 @@
+ldap:1.14
+workflow-aggregator:2.5
+mesos:0.14.1
+marathon:1.4.0
+docker-workflow:1.10
+git:3.1.0
+folders:6.0.3
+mailer:1.20
