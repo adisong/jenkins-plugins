@@ -1,5 +1,6 @@
 locale:1.2
 ldap:1.14
+matrix-auth:1.4
 workflow-aggregator:2.5
 docker-workflow:1.10
 mesos:0.14.1
