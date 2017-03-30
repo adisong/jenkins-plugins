@@ -1,4 +1,4 @@
-FROM gaciaga/jenkins-docker:2.32.3-alpine
+FROM gaciaga/jenkins-docker:2.46.1-alpine
 
 COPY executors.groovy /usr/share/jenkins/ref/init.groovy.d/executors.groovy
 
